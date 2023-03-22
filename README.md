@@ -69,10 +69,4 @@ Ancak, Scrum Agile Yöntemi de bazı dezavantajlara sahiptir. Bu yöntem, belirl
 Sonuç olarak, Scrum Agile Yöntemi, yazılım geliştirme sürecinde daha fazla esneklik ve etkinliğe olanak tanır. Bu nedenle, birçok şirket ve organizasyon bu yöntemi tercih etmektedir. Ancak, bu yöntem de bazı dezavantajlara sahiptir ve her proje için uygun olmayabilir.
 
 		
-Kaynakça: 
-https://fikirjeneratoru.com/yazilim-proje-yonetimi-yontemleri/
-https://medium.com/@ardaodabasi/yazilim-yaşam-döngü-modelleri-ve-scrum-1267fd869641
-https://phoenixnap.com/blog/software-development-life-cycle
-https://tr.myservername.com/sdlc-phases
-https://medium.com/@alminaecemeskicindil/yazılım-yaşam-döngü-modelleri-c0e5b5404ce3
-https://www.linkedin.com/pulse/yazılımın-yaşam-döngüsü-beyza-nur-karakoç?trk=pulse-article&originalSubdomain=tr
+
